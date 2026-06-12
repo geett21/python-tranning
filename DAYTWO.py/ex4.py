@@ -1,7 +1,8 @@
 Name = input("Enter your Name: ")
-Age = int(input("Enter your Age: "))
+Age = int(input("Enter your Age:"))
 Percentage = float(input("Enter your Percentage: "))
-
-print(Name)
-print(Age)
-print(Percentage)
+print("Student Profile")
+print("---------------")
+print("Name",Name)
+print("Age",Age)
+print("Percentage",Percentage)
